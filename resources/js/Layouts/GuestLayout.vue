@@ -19,6 +19,7 @@ import { Link } from '@inertiajs/vue3';
                     <span>
                       Don’t have an account?
                       <Link href="/register" class="ms-1">Registrarse</Link>
+                      <Link href="/compra" class="ms-1">Test compra controller</Link>
                     </span>
                   </div>
                 </div>
